@@ -75,6 +75,7 @@ a {
   width: 100vw;
   justify-content: space-evenly;
   flex-direction: row;
+  flex-wrap: wrap;
 }
 
 .gif {
